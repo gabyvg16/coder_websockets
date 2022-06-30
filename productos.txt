@@ -1,0 +1,50 @@
+[
+	{
+		"title": "Gingerbread",
+		"price": 150,
+		"thumbnail": "https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/029_-_Gingerbread_Man-512.png",
+		"id": 1
+	},
+	{
+		"title": "Bota",
+		"price": 200,
+		"thumbnail": "https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/015_-_Stocking-512.png",
+		"id": 2
+	},
+	{
+		"title": "Estrella",
+		"price": 75,
+		"thumbnail": "https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/019_-_Star-512.png",
+		"id": 3
+	},
+	{
+		"title": "Regalo",
+		"price": 175,
+		"thumbnail": "https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/007_-_Present-512.png",
+		"id": 4
+	},
+	{
+		"title": "Arbolito",
+		"price": 300,
+		"thumbnail": "https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/016_-_Xmas_Tree-512.png",
+		"id": 5
+	},
+	{
+		"title": "Corazon",
+		"price": 250,
+		"thumbnail": "https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/010_-_Heart-512.png",
+		"id": 6
+	},
+	{
+		"title": "Nieve",
+		"price": 75,
+		"thumbnail": "https://cdn1.iconfinder.com/data/icons/christmas-flat-4/60/021_-_Icicle-512.png",
+		"id": 7
+	},
+	{
+		"title": "Santa",
+		"price": "500",
+		"thumbnail": "https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/013_-_Cross_Santa-512.png",
+		"id": 8
+	}
+]

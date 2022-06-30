@@ -1,0 +1,8 @@
+{{> nav}}
+
+<h1>Listado de productos</h1>
+{{#if hasAny}}
+    {{> productList}}
+{{else}}
+    <h3>No hay productos</h3>
+{{/if}}
